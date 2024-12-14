@@ -1,7 +1,7 @@
 # Revolução na Publicidade: O Uso de Inteligência Artificial em Comerciais de Televisão
 
 ## 📒 Descrição
-Este projeto explora como a inteligência artificial (IA) está transformando a produção e veiculação de comerciais de televisão. Com foco em personalização, eficiência e criatividade, o projeto investiga as ferramentas e processos que permitem criar campanhas impactantes e orientadas por dados. Um exemplo recente é o comercial de Natal da Coca-Cola deste ano, que utilizou inteligência artificial para criar elementos visuais e narrativos que conectaram o público de forma inovadora e emocionante.
+Este projeto explora como a inteligência artificial (IA) está transformando a produção e veiculação de comerciais de televisão. Com foco em personalização, eficiência e criatividade, o projeto investiga as ferramentas e processos que permitem criar campanhas impactantes e orientadas por dados. Um exemplo recente é o comercial de Natal da Coca-Cola deste ano, que utilizou inteligência artificial para criar elementos visuais e narrativos que conectaram o público de forma inovadora e emocionante. PARA ACESSAR A IMAGEM DO COMERCIAL CLIQUE NO LINK A SEGUIR https://ibb.co/3NFtV1k
 
 ## 🤖 Tecnologias Utilizadas
 ChatGPT: Criação de roteiros e conceitos criativos.
@@ -24,4 +24,4 @@ Maior Engajamento: Campanhas mais relevantes e impactantes, levando a maiores í
 Inovação Criativa: Utilização de IA para explorar novas ideias e estéticas visuais.
 
 ## 💭 Reflexão (Opcional)
-A integração de IA em comerciais de televisão não é apenas uma tendência, mas uma evolução inevitável na publicidade. Embora os benefícios sejam significativos, há questões éticas a considerar, como o uso de deepfakes e a manipulação de audiências. Este projeto reflete sobre como equilibrar criatividade, inovação e responsabilidade no uso dessas tecnologias.
+A utilização da inteligência artificial em comerciais de televisão traz um desafio único: equilibrar a eficiência tecnológica com a criatividade humana. Embora a IA forneça ferramentas poderosas, o toque humano continua essencial para garantir que os comerciais sejam autênticos e emocionalmente impactantes. Um exemplo disso foi o uso de uma imagem criada no Leonardo.AI, que serviu como peça central para ilustrar o conceito e o tom do trabalho. Essa abordagem demonstrou como as IAs podem complementar o processo criativo, entregando resultados visuais impressionantes e alinhados à narrativa do comercial. PARA ACESSAR A IMAGEM GERADA CLIQUE NO LINK A SEGUIR https://ibb.co/GCkbVcR
